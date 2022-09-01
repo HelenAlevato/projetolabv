@@ -1,4 +1,4 @@
-package br.gov.sp.fatec.projetolab5.service;
+package br.gov.service;
 
 import java.util.List;
 import java.util.Optional;
