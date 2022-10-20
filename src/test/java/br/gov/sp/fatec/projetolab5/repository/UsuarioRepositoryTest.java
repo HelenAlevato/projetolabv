@@ -26,5 +26,5 @@ public class UsuarioRepositoryTest {
         usuario = usuarioRepo.save(usuario);
         assertNotNull(usuario.getId());
     }
-
+    
 }
